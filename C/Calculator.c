@@ -213,7 +213,7 @@ int cu_rt(float num1)
 int percen(int nos)
 {
         int i;
-        float n[100],obt = 0, total;
+        float n[100],obt = 0, total=0;
         
         int percent;
         for(i=1;i<=nos;i++)
