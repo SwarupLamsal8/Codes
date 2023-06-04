@@ -13,7 +13,7 @@ int sq(float num1);
 int cu(float num1);
 int sq_rt(float num1);
 int cu_rt(float num1);
-int percen(int nos);
+float percen(int nos);
 int conver(int choice2);
 //TRIGONOMETRIC VALUES LEFT
 
@@ -210,12 +210,12 @@ int cu_rt(float num1)
         return 0;
     }
 
-int percen(int nos)
+float percen(int nos)
 {
         int i;
         float n[100],obt = 0, total=0;
         
-        int percent;
+        float percent;
         for(i=1;i<=nos;i++)
         {
             //FOR THE TOTAL NUMBER OF SUBJECTS
