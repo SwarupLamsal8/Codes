@@ -14,14 +14,14 @@ int cu(float num1);
 int sq_rt(float num1);
 int cu_rt(float num1);
 int percen(int nos);
-//CONVERSION FUNCTION LEFT
+int conver(int choice2);
 //TRIGONOMETRIC VALUES LEFT
 
 //MAIN FUNCTION
 int main()
 {
     //DECLARATION OF ALL DATA TYPES
-    int choice;
+    int choice,choice2;
     float num1,num2,result;
 
     //FOR TOTAL NUMBER OF SUBJECTS:
@@ -122,9 +122,21 @@ int main()
             scanf("%d",&nos);
             float result = percen(nos);
             printf("\nThe total percentage in %d subjects is: %f",nos,result);
-            return 0;
         break;
 
+    case 10:
+            printf("\n\n\t\t\t\t*CONVERSION MENU*\n");
+            printf("1- CURRENCY\n");
+            printf("2- WEIGHT\n");
+            printf("3- HEIGHT\n");
+            printf("4- TEMPERATURE\n");
+            printf("5- BINARY TO DECIMAL\n");
+            printf("6- DECIMAL TO BINARY\n");
+            printf("7- LENGTH\n");
+            printf("\nEnter the choice: ");
+            scanf("%d",&choice2);
+            
+        break;
 
     case 12:
             exit(1);
