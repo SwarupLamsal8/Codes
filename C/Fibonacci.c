@@ -3,10 +3,10 @@
 
 void main()
 {
-    int n,i,a=0,b=1,c;
-    printf("Write the number of terms in fibonacci series: ");
+    int n,a=0,b=1,c;
+    printf("Write the limiting number for the fibonacci series: ");
     scanf("%d",&n);
-    for(i=1;i<=n;i++)
+    while(a<n)
     {
         printf("%d\t",a);
         c=a+b;

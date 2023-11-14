@@ -1,0 +1,12 @@
+Record Number: 1
+
+Name: Swarup
+ Age: 50
+ Salary: 6900
+
+Record Number: 2
+
+Name: Lamsal
+ Age: 65
+ Salary: 6900
+
