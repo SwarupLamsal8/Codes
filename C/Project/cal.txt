@@ -1,0 +1,21 @@
+Records of Calculations:
+
+
+Currency Conversion:
+
+NRS Rs 1850.00 = USD $14.06
+
+Trigo Function:
+
+cot(45) = 0.62
+
+SUM:
+THE SUM OF 4.00 and 5.00 IS: 9.00
+
+
+DIFFERENCE:
+THE DIFFERENCE BETWEEN 4.00 and 5.00 IS: -1.00
+
+
+SQUARE:
+THE SQUARE OF 4.00 IS: 16.00
