@@ -1,17 +1,1 @@
 Records of Calculations:
-
-
-Temperature Conversion:
-
-567.00 *F = 570.37 *K
-
-Currency Conversion:
-
-NRS Rs 6700.00 = EURO 47.57
-
-Trigo Function:
-
-cosec(0) = 1.#J
-
-SUM:
-THE SUM OF 5.00 and 4.00 IS: 9.00
