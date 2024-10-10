@@ -1,0 +1,59 @@
+body{
+    font-family: Verdana sans-serif;
+    background-color: rgb(181, 179, 179);
+}
+
+h1{
+    color:rgb(58, 58, 253);
+}
+
+form{
+    background-color: white;
+    text-align: center;
+    max-width: 350px;
+    margin:auto;
+    padding:25px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px;
+
+}
+
+#txtBox{
+    width: 50%;
+    text-align: center;
+    font-size: 2em;
+    border: 2px solid rgba(0, 0, 0, 0.288);
+    border-radius: 12px;
+    margin-bottom: 15px;
+}
+
+label{
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+button{
+    font-size: 1.2em;
+    padding: 5px;
+    border-radius: 12px;
+    background-color: rgb(57, 57, 245);
+    color: white;
+    border-color: white;
+    cursor: pointer;
+    font-weight: bold;
+    
+}
+
+button:hover{
+    background-color: rgb(102, 102, 237);
+    color: white;
+    
+}
+
+button:active{
+    background-color: rgb(174, 174, 245);
+}
+
+#result{
+    font-weight: bold;
+}
