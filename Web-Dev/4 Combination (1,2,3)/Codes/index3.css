@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin-top: 9px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color: whitesmoke;
+    font-family: Verdana;
+}
+
+#descriptor{
+    font-size: 2.4em;
+    text-align: center;
+}
+
+.formContent{
+    display: grid;
+    grid-template-columns: auto auto; /* Two columns: one for labels, one for inputs */
+    gap: 10px 20px; /* Row gap 10px, column gap 20px */
+    justify-content: center;
+    align-items: center;
+}
+
+.submit{
+    text-align: center;
+}
+
+#submitbtn{
+    padding: 6px;
+    margin: 2px;
+    border-radius: 10px;
+    background-color: darkblue;
+    font-weight:lighter;
+    color: whitesmoke;
+    font-family: Akzentica 4F;
+}

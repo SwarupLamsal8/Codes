@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: wheat;
+    font-family: Verdana;
+    font-size: 2em;
+}
+
+.button{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#mySubmit{
+    padding: 6px;
+    border-radius: 13px;
+    background-color: #2F3C7E;
+    color: #FBEAEB;
+    font-size: 17px;
+    border-color: none;
+}
+
+#mySubmit:hover{
+    background-color: #8AAAE5;
+    color: #FFFFFF;
+}
