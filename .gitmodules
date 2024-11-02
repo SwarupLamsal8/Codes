@@ -1,0 +1,6 @@
+[submodule "Small-Project"]
+	path = Small-Project
+	url = https://github.com/SwarupLamsal8/Small-Project.git
+[submodule "Web-Dev/4 Combination (1,2,3)/Project"]
+	path = Web-Dev/4 Combination (1,2,3)/Project
+	url = https://github.com/SwarupLamsal8/Small-Project.git
